@@ -1,2 +1,4 @@
-# Text-Extractor-
-Extract text from video.
+# Text-Extractor
+
+In this project Python language is used to extract text present in the video.
+
